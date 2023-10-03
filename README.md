@@ -22,7 +22,7 @@
 
 ## Project Version1
 
-* This is a simple scalable distributed file system supports cache consistency and file locking.
+* This is a simple scalable distributed file system supports cache consistency for file locking and file data.
 * write-back caching is implemented.
 
 
